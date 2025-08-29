@@ -1,4 +1,4 @@
-import MovieCard from "./components/MovieCard";
+import MovieCard from "./components\MovieCard.jsx\MovieCard";
 
 const movies = [
   { title: "Cult-of-Chucky-2017", year: 2010, image: "/movies/Cult-of-Chucky-2017.jpg" },
